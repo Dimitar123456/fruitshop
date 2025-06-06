@@ -1,0 +1,117 @@
+C:\Users\Mitak\Desktop\papka\Proekt magazin\bin\Debug\Proekt magazin.exe.config
+C:\Users\Mitak\Desktop\papka\Proekt magazin\bin\Debug\Proekt magazin.exe
+C:\Users\Mitak\Desktop\papka\Proekt magazin\bin\Debug\Proekt magazin.pdb
+C:\Users\Mitak\Desktop\papka\Proekt magazin\obj\Debug\Proekt magazin.csproj.AssemblyReference.cache
+C:\Users\Mitak\Desktop\papka\Proekt magazin\obj\Debug\Proekt_magazin.Properties.Resources.resources
+C:\Users\Mitak\Desktop\papka\Proekt magazin\obj\Debug\Proekt magazin.csproj.GenerateResource.cache
+C:\Users\Mitak\Desktop\papka\Proekt magazin\obj\Debug\Proekt magazin.csproj.CoreCompileInputs.cache
+C:\Users\Mitak\Desktop\papka\Proekt magazin\obj\Debug\Proekt magazin.exe
+C:\Users\Mitak\Desktop\papka\Proekt magazin\obj\Debug\Proekt magazin.pdb
+C:\Users\Mitak\Desktop\papka\Proekt magazin\bin\Debug\EntityFramework.dll
+C:\Users\Mitak\Desktop\papka\Proekt magazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mitak\Desktop\papka\Proekt magazin\bin\Debug\EntityFramework.xml
+C:\Users\Mitak\Desktop\papka\Proekt magazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mitak\Desktop\papka\Proekt magazin\obj\Debug\Proekt magazin.csproj.CopyComplete
+C:\Users\Mitak\Desktop\papka\Proekt magazin\obj\Debug\Proekt_magazin.Migrations.testmigration.resources
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Proekt magazin.exe.config
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Proekt magazin.exe
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Proekt magazin.pdb
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\EntityFramework.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\EntityFramework.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\obj\Debug\Proekt magazin.csproj.AssemblyReference.cache
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\obj\Debug\Proekt magazin.exe.config
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\obj\Debug\Proekt_magazin.Migrations.testmigration.resources
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\obj\Debug\Proekt_magazin.Properties.Resources.resources
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\obj\Debug\Proekt magazin.csproj.GenerateResource.cache
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\obj\Debug\Proekt magazin.csproj.CoreCompileInputs.cache
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\obj\Debug\Proekt m.58FF4F85.Up2Date
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\obj\Debug\Proekt magazin.exe
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\obj\Debug\Proekt magazin.pdb
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\obj\Debug\Proekt_magazin.Form1.resources
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Azure.Core.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Azure.Identity.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Identity.Client.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Buffers.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.ClientModel.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Memory.Data.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Memory.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Numerics.Vectors.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Security.AccessControl.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Security.Principal.Windows.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Text.Json.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.ValueTuple.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Azure.Core.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Azure.Identity.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Identity.Client.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Buffers.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.ClientModel.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Memory.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Memory.Data.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Numerics.Vectors.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Security.AccessControl.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Security.Principal.Windows.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Text.Json.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\System.ValueTuple.xml
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Dimitar 11a\fruitshop\fruitshop\Proekt magazin\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
