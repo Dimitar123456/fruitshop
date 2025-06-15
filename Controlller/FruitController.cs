@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proekt_magazin.Controlller
 {
-    public class ProductController
+    public class FruitController
     {
         private FruitContext FruitContext = new FruitContext(); // Това е БД !!!!
 

@@ -34,5 +34,35 @@ namespace Proekt_magazin
             this.fruitTypesTableAdapter.Fill(this.fruitShopDataSet.FruitTypes);
 
         }
+
+       
+
+        private void Btn_clear_Click(object sender, EventArgs e)
+        {
+            ProdNumtxt.Clear();
+            ProdNametxt.Clear();
+            Desctxt.Clear();
+            Pricetxt.Clear();
+        }
+
+        private void ListBoxProducts_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void Addbtn_Click(object sender, EventArgs e)
+        {
+            ListBoxProducts.Items.Add(ProdNumtxt.Text);
+            ListBoxProducts.Items.Add(ProdNametxt.Text);
+            ListBoxProducts.Items.Add(Desctxt.Text);
+            ListBoxProducts.Items.Add(Pricetxt.Text);
+            ListBoxProducts.Items.Add(ProdTypecmb.SelectedItem);
+            ListBoxProducts.Items.Add("---------");
+        }
+
+        private void DeleteListboxData_Click(object sender, EventArgs e)
+        {
+            ListBoxProducts.Items.Clear();
+        }
     }
 }

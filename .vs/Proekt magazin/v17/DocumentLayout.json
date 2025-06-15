@@ -3,23 +3,39 @@
   "WorkspaceRootPath": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\models\\fruitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:models\\fruitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|c:\\dimitar 11a\\fruitshop\\fruitshop\\proekt magazin\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\controlller\\fruittypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:controlller\\fruittypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\controlller\\fruitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:controlller\\fruitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\models\\fruittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:models\\fruittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\models\\fruitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:models\\fruitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|c:\\dimitar 11a\\fruitshop\\fruitshop\\proekt magazin\\migrations\\202506021522247_testmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\migrations\\202506021522247_testmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:migrations\\202506021522247_testmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|c:\\dimitar 11a\\fruitshop\\fruitshop\\proekt magazin\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{4C57E8BD-6D27-4259-BBB8-13758451D590}|Proekt magazin.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,33 +66,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FruitContext.cs",
-              "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Models\\FruitContext.cs",
-              "RelativeDocumentMoniker": "Models\\FruitContext.cs",
-              "ToolTip": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Models\\FruitContext.cs*",
-              "RelativeToolTip": "Models\\FruitContext.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Views\\Form1.cs",
+              "RelativeDocumentMoniker": "Views\\Form1.cs",
+              "ToolTip": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Views\\Form1.cs",
+              "RelativeToolTip": "Views\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:18:43.915Z",
+              "WhenOpened": "2025-06-09T10:22:50.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FruitTypeController.cs",
+              "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Controlller\\FruitTypeController.cs",
+              "RelativeDocumentMoniker": "Controlller\\FruitTypeController.cs",
+              "ToolTip": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Controlller\\FruitTypeController.cs",
+              "RelativeToolTip": "Controlller\\FruitTypeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:13:38.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FruitController.cs",
+              "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Controlller\\FruitController.cs",
+              "RelativeDocumentMoniker": "Controlller\\FruitController.cs",
+              "ToolTip": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Controlller\\FruitController.cs",
+              "RelativeToolTip": "Controlller\\FruitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:09:11.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FruitContext.cs",
+              "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Models\\FruitContext.cs",
+              "RelativeDocumentMoniker": "Models\\FruitContext.cs",
+              "ToolTip": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Models\\FruitContext.cs",
+              "RelativeToolTip": "Models\\FruitContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:18:43.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FruitType.cs",
               "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Models\\FruitType.cs",
               "RelativeDocumentMoniker": "Models\\FruitType.cs",
               "ToolTip": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Models\\FruitType.cs",
               "RelativeToolTip": "Models\\FruitType.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:18:43.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T05:18:43.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Views\\Form1.cs",
               "RelativeDocumentMoniker": "Views\\Form1.cs",
@@ -96,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "202506021522247_testmigration.cs",
               "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Migrations\\202506021522247_testmigration.cs",
               "RelativeDocumentMoniker": "Migrations\\202506021522247_testmigration.cs",
@@ -104,23 +147,22 @@
               "RelativeToolTip": "Migrations\\202506021522247_testmigration.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:36:10.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T05:36:10.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SQLQuery1.sql ",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery1.sql",
               "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\SQLQuery1.sql",
               "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "SQLQuery1.sql ",
+              "ToolTip": "SQLQuery1.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-06-04T05:40:01.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Fruit.cs",
               "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\Models\\Fruit.cs",
               "RelativeDocumentMoniker": "Models\\Fruit.cs",
@@ -128,25 +170,23 @@
               "RelativeToolTip": "Models\\Fruit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:18:43.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\App.config*",
-              "RelativeToolTip": "App.config*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-04T05:18:43.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T05:18:43.998Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-04T05:18:43.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Dimitar 11a\\fruitshop\\fruitshop\\Proekt magazin\\packages.config",
               "RelativeDocumentMoniker": "packages.config",

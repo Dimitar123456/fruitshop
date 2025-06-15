@@ -39,14 +39,17 @@
             this.Desctxt = new System.Windows.Forms.TextBox();
             this.Pricetxt = new System.Windows.Forms.TextBox();
             this.ProdTypecmb = new System.Windows.Forms.ComboBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.fruitShopDataSet = new Proekt_magazin.FruitShopDataSet();
-            this.fruitShopDataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.fruitTypesBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.fruitShopDataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.fruitShopDataSet = new Proekt_magazin.FruitShopDataSet();
             this.fruitTypesTableAdapter = new Proekt_magazin.FruitShopDataSetTableAdapters.FruitTypesTableAdapter();
-            ((System.ComponentModel.ISupportInitialize)(this.fruitShopDataSet)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.fruitShopDataSetBindingSource)).BeginInit();
+            this.Btn_clear = new System.Windows.Forms.Button();
+            this.ListBoxProducts = new System.Windows.Forms.ListBox();
+            this.Addbtn = new System.Windows.Forms.Button();
+            this.DeleteListboxData = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.fruitTypesBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.fruitShopDataSetBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.fruitShopDataSet)).BeginInit();
             this.SuspendLayout();
             // 
             // ProdNum
@@ -126,7 +129,6 @@
             // ProdTypecmb
             // 
             this.ProdTypecmb.DataSource = this.fruitTypesBindingSource;
-            this.ProdTypecmb.DisplayMember = "TypeName";
             this.ProdTypecmb.FormattingEnabled = true;
             this.ProdTypecmb.Location = new System.Drawing.Point(494, 66);
             this.ProdTypecmb.Name = "ProdTypecmb";
@@ -134,40 +136,74 @@
             this.ProdTypecmb.TabIndex = 10;
             this.ProdTypecmb.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
-            // button1
+            // fruitTypesBindingSource
             // 
-            this.button1.Location = new System.Drawing.Point(229, 250);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(86, 46);
-            this.button1.TabIndex = 11;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // fruitShopDataSet
-            // 
-            this.fruitShopDataSet.DataSetName = "FruitShopDataSet";
-            this.fruitShopDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            this.fruitTypesBindingSource.DataMember = "FruitTypes";
+            this.fruitTypesBindingSource.DataSource = this.fruitShopDataSetBindingSource;
             // 
             // fruitShopDataSetBindingSource
             // 
             this.fruitShopDataSetBindingSource.DataSource = this.fruitShopDataSet;
             this.fruitShopDataSetBindingSource.Position = 0;
             // 
-            // fruitTypesBindingSource
+            // fruitShopDataSet
             // 
-            this.fruitTypesBindingSource.DataMember = "FruitTypes";
-            this.fruitTypesBindingSource.DataSource = this.fruitShopDataSetBindingSource;
+            this.fruitShopDataSet.DataSetName = "FruitShopDataSet";
+            this.fruitShopDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // fruitTypesTableAdapter
             // 
             this.fruitTypesTableAdapter.ClearBeforeFill = true;
+            // 
+            // Btn_clear
+            // 
+            this.Btn_clear.Location = new System.Drawing.Point(70, 214);
+            this.Btn_clear.Name = "Btn_clear";
+            this.Btn_clear.Size = new System.Drawing.Size(113, 77);
+            this.Btn_clear.TabIndex = 11;
+            this.Btn_clear.Text = "Clear";
+            this.Btn_clear.UseVisualStyleBackColor = true;
+            this.Btn_clear.Click += new System.EventHandler(this.Btn_clear_Click);
+            // 
+            // ListBoxProducts
+            // 
+            this.ListBoxProducts.FormattingEnabled = true;
+            this.ListBoxProducts.Location = new System.Drawing.Point(517, 160);
+            this.ListBoxProducts.Name = "ListBoxProducts";
+            this.ListBoxProducts.Size = new System.Drawing.Size(143, 121);
+            this.ListBoxProducts.TabIndex = 12;
+            this.ListBoxProducts.SelectedIndexChanged += new System.EventHandler(this.ListBoxProducts_SelectedIndexChanged);
+            // 
+            // Addbtn
+            // 
+            this.Addbtn.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.Addbtn.Location = new System.Drawing.Point(225, 214);
+            this.Addbtn.Name = "Addbtn";
+            this.Addbtn.Size = new System.Drawing.Size(114, 76);
+            this.Addbtn.TabIndex = 13;
+            this.Addbtn.Text = "Add items";
+            this.Addbtn.UseVisualStyleBackColor = false;
+            this.Addbtn.Click += new System.EventHandler(this.Addbtn_Click);
+            // 
+            // DeleteListboxData
+            // 
+            this.DeleteListboxData.Location = new System.Drawing.Point(369, 217);
+            this.DeleteListboxData.Name = "DeleteListboxData";
+            this.DeleteListboxData.Size = new System.Drawing.Size(119, 74);
+            this.DeleteListboxData.TabIndex = 14;
+            this.DeleteListboxData.Text = "Delete listbox data";
+            this.DeleteListboxData.UseVisualStyleBackColor = true;
+            this.DeleteListboxData.Click += new System.EventHandler(this.DeleteListboxData_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.DeleteListboxData);
+            this.Controls.Add(this.Addbtn);
+            this.Controls.Add(this.ListBoxProducts);
+            this.Controls.Add(this.Btn_clear);
             this.Controls.Add(this.ProdTypecmb);
             this.Controls.Add(this.Pricetxt);
             this.Controls.Add(this.Desctxt);
@@ -181,9 +217,9 @@
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.fruitShopDataSet)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.fruitShopDataSetBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.fruitTypesBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.fruitShopDataSetBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.fruitShopDataSet)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -201,11 +237,14 @@
         private System.Windows.Forms.TextBox Desctxt;
         private System.Windows.Forms.TextBox Pricetxt;
         private System.Windows.Forms.ComboBox ProdTypecmb;
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.BindingSource fruitShopDataSetBindingSource;
         private FruitShopDataSet fruitShopDataSet;
         private System.Windows.Forms.BindingSource fruitTypesBindingSource;
         private FruitShopDataSetTableAdapters.FruitTypesTableAdapter fruitTypesTableAdapter;
+        private System.Windows.Forms.Button Btn_clear;
+        private System.Windows.Forms.ListBox ListBoxProducts;
+        private System.Windows.Forms.Button Addbtn;
+        private System.Windows.Forms.Button DeleteListboxData;
     }
 }
 

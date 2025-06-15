@@ -167,7 +167,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controlller\ProductTypeController.cs" />
+    <Compile Include="Controlller\FruitController.cs" />
+    <Compile Include="Controlller\FruitTypeController.cs" />
     <Compile Include="FruitShopDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
